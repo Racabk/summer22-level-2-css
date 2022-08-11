@@ -1,0 +1,38 @@
+
+h1 {
+    color:rgb(208,146,72);
+    margin:  auto; padding: 10px; font-size: 70px; width: 50%;
+}
+body {
+    background-color:black;
+}
+p {
+    color:rgb(227, 221, 213);
+}
+h3 {
+    color:rgb(208,146,72);
+}
+ul {
+    color:rgb(227, 221, 213);
+    margin: auto; padding: 20px; border: 3px solid rgb(227, 221, 213); width: 10%; 
+} 
+#Paris {
+    color:rgb(227, 221, 213);
+    margin: auto; padding: 20px; border: 3px solid rgb(227, 221, 213); width: 10%;
+}
+#Loire-Valley {
+    color:rgb(227, 221, 213);
+    margin: auto; padding: 20px; border: 3px solid rgb(227, 221, 213); width: 10%;
+}
+#Marseille {
+    color:rgb(227, 221, 213);
+    margin: auto; padding: 20px; border: 3px solid rgb(227, 221, 213); width: 10%;
+}
+#Normandy {
+    color:rgb(227, 221, 213);
+    margin: auto; padding: 20px; border: 3px solid rgb(227, 221, 213); width: 10%;
+}
+#Burgundy {
+    color:rgb(227, 221, 213);
+    margin: auto; padding: 20px; border: 3px solid rgb(227, 221, 213); width: 10%;
+}
